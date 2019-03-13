@@ -2,7 +2,7 @@
 
 //DONT DELETE THIS LINE</script><script type="text/babel">
 window.onload = () => {
-alert("Wait until N > 20 to see some beautiful patterns.")
+//alert("Wait until N > 20 to see some beautiful patterns.")
 
 const canv = document.getElementById("canv");
 const stats = document.getElementById("stats");
